@@ -161,3 +161,5 @@ As a generalized workflow:
 2.  Edit playbook to match your custom configuration.
 3.  Test playbooks in sandbox environments whenever possible.
 4.  Use ansible-playbook <playbook_name> to run playbook.
+
+# Testing Bidirectional snyc with Github 20210204
